@@ -4,7 +4,7 @@ import Link from 'next/link'
 import './Navbar.css';
 import { BiUserCircle, BiSearch} from 'react-icons/bi';
 import { RiArrowDropDownFill } from 'react-icons/ri';
-import logo from '@/assets/logo3.png'
+import logo from '@/assets/logo.png'
 import Image from 'next/image'
 import LocationPopup from '@/popups/location/LocationPopup'
 

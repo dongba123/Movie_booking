@@ -13,8 +13,7 @@ nav{
 nav img{
  height: 40px;
  margin-right: 10px;
- filter: brightness(0) invert(1);
- color: red;
+
 }
 
 .searchbox{
