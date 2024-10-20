@@ -11,8 +11,10 @@ nav{
  align-items: center;
 }
 nav img{
- height: 30px;
+ height: 40px;
  margin-right: 10px;
+ filter: brightness(0) invert(1);
+ color: red;
 }
 
 .searchbox{
@@ -42,20 +44,8 @@ input[type="text"]{
  align-items: center;
  justify-content: flex-end;
 }
-.theme_btn1{
- background-color: var(--col1);
- color: white;
- border: none;
- border-radius: 4px;
- padding: 5px 10px;
- text-decoration: none;
- margin-right: 10px;
-}
-.linkstylenone{
- text-decoration: none;
- color: white;
- margin-right: 20px;
-}
+
+
 .theme_icon1{
  font-size: 1.5rem;
 }
